@@ -1,0 +1,12 @@
+{
+  "name": "emi-tunes-android",
+  "version": "2.2.0",
+  "private": true,
+  "description": "Emi Tunes for Android",
+  "dependencies": {
+    "@capacitor/android": "^6.1.2",
+    "@capacitor/app": "^6.0.1",
+    "@capacitor/core": "^6.1.2"
+  },
+  "devDependencies": { "@capacitor/cli": "^6.1.2" }
+}

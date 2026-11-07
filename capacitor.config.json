@@ -1,0 +1,8 @@
+{
+  "appId": "app.emitunes",
+  "appName": "Emi Tunes",
+  "webDir": "www",
+  "backgroundColor": "#000000",
+  "plugins": { "CapacitorHttp": { "enabled": true } },
+  "android": { "backgroundColor": "#000000" }
+}
